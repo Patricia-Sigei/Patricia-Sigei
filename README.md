@@ -9,8 +9,5 @@ I'm a full-stack software engineering student with a passion for building creati
 - ❤️ **Passion**: I'm a technophile, always eager to dive into the latest in tech and innovation  
 - 🏗️ **Current Goal**: Becoming proficient across the stack, creating projects that make a difference
 
-## 🌐 Connect with Me
 
-Feel free to explore my repositories, share feedback, or connect for collaboration. I’m always open to learning from others and sharing insights. Let’s build the future together!
 
--->
