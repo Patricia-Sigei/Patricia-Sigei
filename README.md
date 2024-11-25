@@ -24,5 +24,5 @@ I'm a full-stack software engineering student with a passion for building creati
 
 Feel free to reach out to me for collaborations, mentorship, or just a friendly tech chat. I'm always open to learning from others and sharing knowledge!
 
-- LinkedIn: [https://www.linkedin.com/in/patricia-sigei/)
+- LinkedIn: Chelangat Patricia (https://www.linkedin.com/in/patricia-sigei/)
 - Email: pattychela97@gmail.com
