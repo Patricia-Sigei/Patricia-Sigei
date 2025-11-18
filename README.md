@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Patricia Sigei
 
-I'm a full-stack software engineering student with a passion for building creative, efficient, and meaningful tech solutions. Currently, I'm exploring the world of **JAVA** and back-end development.
+I'm a full-stack software engineer with a passion for building creative, efficient, and meaningful tech solutions. Currently, I'm exploring the world of **JAVA** and back-end development.
 
 ## 👩‍💻 About Me
 
