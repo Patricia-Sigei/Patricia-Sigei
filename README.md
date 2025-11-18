@@ -4,7 +4,7 @@ I'm a full-stack software engineer with a passion for building creative, efficie
 
 ## 👩‍💻 About Me
 
-- 🌱 **Learning**: JAVA, and strengthening my full-stack skills  
+- 🌱 **Learning**: Java, and strengthening my full-stack skills  
 - 🛠️ **Interests**: Building impactful applications, experimenting with new tools, and optimizing solutions for better user experiences  
 - ❤️ **Passion**: I'm a technophile, always eager to dive into the latest in tech and innovation  
 - 🏗️ **Current Goal**: Becoming proficient across the stack, creating projects that make a difference
