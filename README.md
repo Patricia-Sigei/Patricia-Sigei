@@ -21,13 +21,6 @@ I'm a full-stack software engineer passionate about building **creative, efficie
 
 ---
 
-## 📊 GitHub Stats
-
-![Patricia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patricia-Sigei&show_icons=true&count_private=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Sigei&layout=compact&theme=tokyonight)
-
----
-
 
 ## 💬 Connect With Me
 
