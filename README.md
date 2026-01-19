@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patricia Sigei
 
-I'm a full-stack software engineer passionate about building **creative, efficient, and meaningful tech solutions**. Currently exploring **Java** and back-end development.
+I'm a full-stack software engineer passionate about building creative, efficient, and meaningful tech solutions. Currently exploring Java and back-end development.
 
 ---
 
@@ -33,4 +33,4 @@ I’m open to collaborations, mentorship, or just a friendly tech chat.
 
 ### ⚡ Fun Fact
 
-Coffee in hand, code on mind ☕💻
+I love black coffee
